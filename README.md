@@ -12,7 +12,7 @@ In this part, I worked out all of the calculations and visualizations in the ana
 
 ## 2 - Dashboard:
 
-After I have worked out all of the code and analysis from part 1, I use the Panel library to build an interactive dashboard for all of the visualizations.  
+After, I have worked out all of the codes and analysis from part 1, I used the Panel library to build an interactive dashboard for all of the visualizations.  
 
 Additionally, I used the relevant object .servable() to launch this app,  as a server outside of the notebook as link below.
 
